@@ -3,17 +3,17 @@ A secure and simple command-line tool to encrypt and decrypt files using the AES
 Built with Python and the powerful cryptography library.
 
 ## 🛡 Features
-## 🔒 AES-256 encryption (strong symmetric encryption)
+🔒 AES-256 encryption (strong symmetric encryption)
 
-## 🔑 Password-based key derivation (PBKDF2 + SHA-256 + Salt)
+🔑 Password-based key derivation (PBKDF2 + SHA-256 + Salt)
 
-## 🧂 Random IV and salt generation
+🧂 Random IV and salt generation
 
-## 🧼 Automatic padding and unpadding
+🧼 Automatic padding and unpadding
 
-## ✅ Easy-to-use command-line interface
+✅ Easy-to-use command-line interface
 
-## 🧪 Supports all file types (text, PDF, images, etc.)
+🧪 Supports all file types (text, PDF, images, etc.)
 
 ## 📦 Requirements
 Python 3.6+
