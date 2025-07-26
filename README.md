@@ -116,3 +116,7 @@ It decrypts the data and removes padding to recover the original file, which is 
 
 If an incorrect password is provided, the tool safely handles the error and alerts the user.
 
+## Output
+
+<img width="578" height="542" alt="Image" src="https://github.com/user-attachments/assets/ec28427e-424f-4bc5-b9ab-a0ae1ad16908" />
+
